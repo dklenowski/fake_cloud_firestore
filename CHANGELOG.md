@@ -1,3 +1,8 @@
+## 4.1.1
+
+Upgraded cloud_firestore_platform_interface to ^8.0.0 ([PR-336](https://github.com/atn832/fake_cloud_firestore/pull/336)). Thank you [Wim-Hexagons](https://github.com/Wim-Hexagons)!
+
+
 ## 4.1.0+1
 
 Update `Transaction.update` and `WriteBatch.update` signatures for cloud_firestore 6.2.0 ([PR-335](https://github.com/atn832/fake_cloud_firestore/pull/335)). Thank you [TonyDowney](https://github.com/TonyDowney)!
